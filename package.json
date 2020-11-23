@@ -1,0 +1,23 @@
+{
+  "name": "nts",
+  "version": "1.0.0",
+  "description": "A layered architecture typescript node.js boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedSomaa/nts.git"
+  },
+  "keywords": [
+    "tyepscript",
+    "node"
+  ],
+  "author": "Ahmed Ismail Abo Kahf <ahmedsomaa@aucegypt.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmedSomaa/nts/issues"
+  },
+  "homepage": "https://github.com/AhmedSomaa/nts#readme"
+}
